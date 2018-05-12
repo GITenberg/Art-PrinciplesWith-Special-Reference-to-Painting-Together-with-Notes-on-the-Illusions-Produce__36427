@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '38262'
     url: http://www.gutenberg.org/2009/agents/38262
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36427#Art-PrinciplesWith-Special-Reference-to-Painting-Together-with-Notes-on-the-Illusions-Produce_
 gutenberg_issued: '2011-06-14'
 gutenberg_type: Text
 identifiers:
