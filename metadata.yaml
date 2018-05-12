@@ -1,0 +1,28 @@
+_repo: Art-PrinciplesWith-Special-Reference-to-Painting-Together-with-Notes-on-the-Illusions-Produce__36427
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 36427-h/images/i_cover.jpg
+creator:
+  author:
+    agent_name: Govett, Ernest
+    gutenberg_agent_id: '38262'
+    url: http://www.gutenberg.org/2009/agents/38262
+description: ''
+gutenberg_issued: '2011-06-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36427'
+  lccn: '19004329'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Painting'
+- !lcc 'N'
+- !lcsh 'Art'
+- !lcc 'ND'
+title: "Art Principles with Special Reference to Painting\r\nTogether with Notes on\
+  \ the Illusions Produced by the Painter"
+url: http://www.gutenberg.org/ebooks/36427
